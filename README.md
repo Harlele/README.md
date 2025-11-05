@@ -10,7 +10,7 @@ Developed in Python 3.11 using Visual Studio Code with the built-in terminal and
 First, a WeatherReport class was created to store city data and generate weather output. Then, a WeatherSystem class was built to manage multiple reports. Finally, sample cities were passed to the system to display results.
 
 # Testing & Debugging: 
-
+![My Screenshot](Screenshot.png)
 
 ```python
 import random
